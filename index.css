@@ -1,11 +1,28 @@
 #screen{
 
+    width: 400px;
+    height: 220px;
+    background-color: #4B98A6;
+    margin-left: 450px;
+    border-radius: 20px;
 }
 
+#plus{
+
+    padding-left: 160px ;
+}
+
+
 #computer{
+
 
 }
 
 #you{
-    
+
+}
+
+span{
+
+    padding-bottom: 70px;
 }
