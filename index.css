@@ -9,20 +9,47 @@
 
 #plus{
 
-    padding-left: 160px ;
+    padding-left: 140px ;
+}
+
+#plus div{
+
+    padding-bottom: 25px;
 }
 
 
 #computer{
 
+    color: blue;
+    font-size: 30px;
 
 }
 
 #you{
 
+    color: red;
+    font-size: 30px;
 }
 
-span{
+#answer{
 
-    padding-bottom: 70px;
+    color: greenyellow;
+    font-size: 30px;
+}
+#buttons{
+
+    padding-left: 60px;
+}
+
+button{
+
+    width: 90px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 12px;
+    border-color: #055DD8;
+    background-color: #F5912D;
+    cursor: pointer;
+    
+
 }
